@@ -114,7 +114,7 @@
     "babel-plugin-styled-components": "1.13.3",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "babel-preset-minify": "0.5.1",
-    "concurrently": "6.2.1",
+    "concurrently": "6.5.1",
     "cross-env": "7.0.3",
     "dotenv": "10.0.0",
     "electron": "16.0.7",

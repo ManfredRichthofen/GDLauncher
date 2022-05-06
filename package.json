@@ -113,7 +113,7 @@
     "babel-plugin-preval": "5.1.0",
     "babel-plugin-styled-components": "1.13.3",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
-    "babel-preset-minify": "0.5.1",
+    "babel-preset-minify": "0.5.2",
     "concurrently": "6.5.1",
     "cross-env": "7.0.3",
     "dotenv": "10.0.0",
